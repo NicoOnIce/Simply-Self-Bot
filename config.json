@@ -1,0 +1,26 @@
+{
+  "token": "YOUR_DISCORD_TOKEN",
+  "prefix": "PREFERED_PREFIX_BEFORE_COMMANDS",
+  "defaultAfk": null,
+  "apiKey": "YOUR_GEMINI_API_KEY",
+  "statuses": [
+    "WjwKCAoGb25saW5lEi4KI/CfjrkgMSB0byB0aGUga2lkbmV5LCAyIHRvIHRoZSBkb21lKfaPbVeWAQAAGgA=",
+    "Wk4KCAoGb25saW5lEkAKNfCfjrkgdGhhdCdzIGxlZnQsIHJpZ2h0LCBsZWZ0LCByaWdodCwgbGVmdCwgcmlnaHQsIGdvKSY+bleWAQAAGgA=",
+    "Wi8KCAoGb25saW5lEiEKEFdoYXQgdGltZSBpcyBpdD8aBPCfkYApHqxrV5YBAAAaAA==",
+    "WjAKCAoGb25saW5lEiIKEUkgbmVlZCB0byBsb2NrIGluGgTwn6WAKcAkaleWAQAAGgA=",
+    "WjQKCAoGb25saW5lEiYKFWxpZmUgaXMgYSBmZXZlciBkcmVhbRoE8J+UpSmC9XBXlgEAABoA",
+    "WlIKCAoGb25saW5lEkQKMyJTcHJpbmcgd2lsbCBiZSBoZXJlIHNvb24uIEEgc3ByaW5nIHdpdGhvdXQgeW91Li4uIhoE8J+lsSkGpZNflgEAABoA",
+    "WjwKCAoGb25saW5lEi4KHSJJIGp1c3QgZmVsdCBsaWtlIHNheWluJyBpdC4iGgTwn6WxKS0DlV+WAQAAGgA=",
+    "WiwKCAoGb25saW5lEh4KDVNvIGJhc2ljYWxseSwaBPCfmY8ppfaXX5YBAAAaAA==",
+    "WjcKCAoGb25saW5lEikKGE1hbiwgdXIgc3VjaCBhIGJ1enpraWxsIRoE8J+YlCkMpZhflgEAABoA",
+    "WjoKCAoGb25saW5lEiwKG1N0b3AgY2FsbGluZyBhIGtldHRsZSBibGFjaxoE8J+UpSlGFJ1flgEAABoA",
+    "WjcKCAoGb25saW5lEikKGGJ1dCwgY2hhdCwgaXMgdGhpcyByZWFsPxoE8J+UpSlLZp1flgEAABoA",
+    "WjkKCAoGb25saW5lEisKIPCfjrkgd2UgZG9udCBicmVhdGggdGhlIHNhbWUgYWlyKTP/nl+WAQAAGgA=",
+    "WjUKCAoGb25saW5lEicKHPCfjrkgeW91IG5lZWQgYSBoYXptYXQgYml0Y2gpy1KfX5YBAAAaAA==",
+    "WjQKCAoGb25saW5lEiYKFXJldmlzaW9uLCB3aG8ncyB0aGF0PxoE8J+SlCnKraBflgEAABoA",
+    "WlAKCAoGb25saW5lEkIKN/CfjrkgSSBzZWUgYSB3aW5kb3csIGEgbGltaXQsIHRvIGxpdmUgaXQsIG9yIG5vdCBhdCBhbGwpSnahX5YBAAAaAA==",
+    "Wi4KCAoGb25saW5lEiAKD2ltIGp1c3QgdG9vIGljeRoE8J+ltimShKJflgEAABoA"
+  ],
+  "rotateStatus": false,
+  "note": "Set rotateStatus to true/false depending on wether you want to rotate your status!"
+}

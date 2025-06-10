@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message CustomStatus {
+  string text = 1;
+  string emoji_name = 2;
+}
+
+message StatusSettings {
+  string status = 1;
+  CustomStatus custom_status = 2;
+}
